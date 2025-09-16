@@ -2,6 +2,6 @@
 title: "My First Markdown File"
 author: "Cate Gellai Mucas"
 date: "2025-09-16"
-github: "https://github.com/C8mcs/Intro-to-GitHub.git"
+github: "https://github.com/catcatg/Intro-to-GitHub"
 output: html_document
 ---
